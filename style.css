@@ -3,8 +3,26 @@
     margin: 0 auto;
 }
 
-.fab fa-html5{
+.headPost{
+    display: flex;
+}
+
+.headTitle{
+    flex: 1 1 87%;
+}
+
+.headTitle p{
+    margin: 0%;    
+}
+
+.fa-ellipsis-v{
+    flex: 1 1 3%;
+    
+}
+
+.fa-html5{
     height: 100%;
+    flex: 1 1 10%;
 }
 
 .imgPost{
@@ -15,3 +33,8 @@
 .imgPost img{
     width: 100%;
 }
+
+.fa-paper-plane{
+    width: 78%;
+}
+
